@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karim Abou Agiza</h1>
 <h3 align="center">A passionate java software developer from Egypt</h3>
 
-- 🌱 I’m currently learning **Spring Framwork**
+- 🌱 I’m currently learning **Spring Framework**
 
 - 💬 Ask me about **java , spring framework**
 
