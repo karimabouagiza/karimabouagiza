@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Karim Abou Agiza</h1>
 <h3 align="center">A passionate java software developer from Egypt</h3>
 
-<h1 align="center">Hi 👋, I'm Karim Abo Agiza</h1>
-<h3 align="center">Java Developer from Egypt</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karimabouagiza&label=Profile%20views&color=0e75b6&style=flat" alt="karimabouagiza" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
